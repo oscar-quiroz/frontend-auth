@@ -1,0 +1,19 @@
+.border {
+    margin: 10px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.img-login {
+    padding-left: 30px;
+}
+
+.login-container {
+    border-radius: 15px;
+}
+
+div select option {
+    border: none;
+    border-radius: 15px;
+    padding: 20px;
+}
